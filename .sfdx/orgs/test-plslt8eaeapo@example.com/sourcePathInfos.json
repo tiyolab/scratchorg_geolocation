@@ -2,14 +2,14 @@
     [
         "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app",
         {
-            "state": "n",
             "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1545039423560,
             "changeTime": 3373865674955,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main",
         {
-            "state": "n",
             "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1545039423570,
             "changeTime": 3373865674955,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,187 +32,1082 @@
     [
         "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1545039423570,
             "changeTime": 3373865674955,
-            "contentHash": "956e0ed05cb6b1baae28258b198096bb3ee4e6d7"
+            "contentHash": "f76dadc68a02fe24821efbbe4270941297d641b7",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1545039423570,
             "changeTime": 3373865674955,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "ba4215fc09fda823f5e13ea84f7f5e053ef9210e"
         }
     ],
     [
         "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation",
         {
-            "state": "n",
             "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1545039423470,
             "changeTime": 3373865674955,
-            "contentHash": "ef33ffe0f53e48977c0a20a8eb8bf4cb90480e7c",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "contentHash": "5a5ddf6a900bb10eb613b6bfdb097b62ed88cb54",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
         }
     ],
     [
         "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 403,
             "modifiedTime": 1545040384000,
             "changeTime": 3373865674955,
-            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596"
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9630,
             "modifiedTime": 1545040384000,
             "changeTime": 3373865674955,
-            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22"
+            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9582,
             "modifiedTime": 1545040384000,
             "changeTime": 3373865674955,
-            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278"
+            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9582,
             "modifiedTime": 1545040384000,
             "changeTime": 3373865674955,
-            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c"
+            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9630,
             "modifiedTime": 1545040384000,
             "changeTime": 3373865674955,
-            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195"
+            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 366,
             "modifiedTime": 1545040384000,
             "changeTime": 3373865674955,
-            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915"
+            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
         {
-            "state": "u",
             "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1545040382230,
             "changeTime": 3373865674955,
-            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\objects\\Account",
         {
-            "state": "u",
             "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\objects\\Account",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1545040382200,
             "changeTime": 3373865674955,
-            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\objects",
         {
-            "state": "u",
             "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1545040382190,
             "changeTime": 3373865674955,
-            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\layouts",
         {
-            "state": "u",
             "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1545040382250,
             "changeTime": 3373865674955,
-            "contentHash": "3d411a916d3ac7c4bfb7c7b972073e77787fd793"
+            "contentHash": "3d411a916d3ac7c4bfb7c7b972073e77787fd793",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\permissionsets",
         {
-            "state": "u",
             "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1545040382310,
             "changeTime": 3373865674955,
-            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545201647530,
+            "changeTime": 3373865674955,
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
+            "isDirectory": false,
+            "size": 292,
+            "modifiedTime": 1545201672000,
+            "changeTime": 3373865674955,
+            "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1545201648000,
+            "changeTime": 3373865674955,
+            "contentHash": "90ff74999c0787540fd47c4052e748cca6ee6e47",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545201810760,
+            "changeTime": 3373865674955,
+            "contentHash": "cf410564b763b0e3cda13ac78ae5ffc185171e86",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+            "isDirectory": false,
+            "size": 201,
+            "modifiedTime": 1545203036000,
+            "changeTime": 3373865674955,
+            "contentHash": "b653a651d8e3ffd78bebd800ab00f8e46a0b360f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 246,
+            "modifiedTime": 1545201812000,
+            "changeTime": 3373865674955,
+            "contentHash": "031f43b37d7bb45e1a9e19859d572e3a7f2d1d85",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1545201812000,
+            "changeTime": 3373865674955,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1545201812000,
+            "changeTime": 3373865674955,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+            "isDirectory": false,
+            "size": 129,
+            "modifiedTime": 1545201844000,
+            "changeTime": 3373865674955,
+            "contentHash": "85b104cc64abfbfc4c3db17ed3f6622f68ff6797",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1545201812000,
+            "changeTime": 3373865674955,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1545201812000,
+            "changeTime": 3373865674955,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1545201812000,
+            "changeTime": 3373865674955,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1545201812000,
+            "changeTime": 3373865674955,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "size": 267,
+            "modifiedTime": 1545202350000,
+            "changeTime": 3373865674955,
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5016,
+            "modifiedTime": 1545202350000,
+            "changeTime": 3373865674955,
+            "contentHash": "b2b544ad2e99c14072e4bfdeb68699b788f40af7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 18199,
+            "modifiedTime": 1545202350000,
+            "changeTime": 3373865674955,
+            "contentHash": "5123388c414ceef0986f36f8d529b47c9abf733d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4676,
+            "modifiedTime": 1545202350000,
+            "changeTime": 3373865674955,
+            "contentHash": "fd1e6c74f4e46833342e9c7c9d74cc3af3fded29",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4680,
+            "modifiedTime": 1545202350000,
+            "changeTime": 3373865674955,
+            "contentHash": "87ba65b89e99b40ff6ed5546407705fc6a63aaa5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545202349130,
+            "changeTime": 3373865674955,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545202349160,
+            "changeTime": 3373865674955,
+            "contentHash": "f84149ecdc8763bf5c6efb50270e6ee60e140ffe",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountListItem",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountListItem",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545202398230,
+            "changeTime": 3373865674955,
+            "contentHash": "3d639a20806197689a430959dea6adf460579e9b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountList",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountList",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545202450460,
+            "changeTime": 3373865674955,
+            "contentHash": "2566c32f96f93eeed1bffac61dd3b41a33257d8f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
+            "isDirectory": false,
+            "size": 120,
+            "modifiedTime": 1545202416000,
+            "changeTime": 3373865674955,
+            "contentHash": "474f6d902cf12af89851140c645345a9f8da10a8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 247,
+            "modifiedTime": 1545202400000,
+            "changeTime": 3373865674955,
+            "contentHash": "cd6b85d39687bc3e7ff7e8d01d139cec764fe6db",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1545202400000,
+            "changeTime": 3373865674955,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1545202400000,
+            "changeTime": 3373865674955,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
+            "isDirectory": false,
+            "size": 168,
+            "modifiedTime": 1545202424000,
+            "changeTime": 3373865674955,
+            "contentHash": "28b0ed4fe984a051f5f2f586c4d4d1a2b303a706",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1545202400000,
+            "changeTime": 3373865674955,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.svg",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1545202400000,
+            "changeTime": 3373865674955,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.auradoc",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1545202400000,
+            "changeTime": 3373865674955,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.design",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1545202400000,
+            "changeTime": 3373865674955,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
+        {
+            "state": "u",
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 542,
+            "modifiedTime": 1545203190000,
+            "changeTime": 3373865674955,
+            "contentHash": "0eb081015e8f0397710d76f5fa901ec23d0495e7"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 243,
+            "modifiedTime": 1545202452000,
+            "changeTime": 3373865674955,
+            "contentHash": "9e9f03a612d61ab979166f75892ca34630005828",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
+        {
+            "state": "u",
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 395,
+            "modifiedTime": 1545203212000,
+            "changeTime": 3373865674955,
+            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1545202452000,
+            "changeTime": 3373865674955,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
+            "isDirectory": false,
+            "size": 111,
+            "modifiedTime": 1545202486000,
+            "changeTime": 3373865674955,
+            "contentHash": "ff97680a451dccf775d504143f673481b13a3300",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1545202452000,
+            "changeTime": 3373865674955,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.svg",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1545202452000,
+            "changeTime": 3373865674955,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.auradoc",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1545202452000,
+            "changeTime": 3373865674955,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.design",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1545202452000,
+            "changeTime": 3373865674955,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1545202974000,
+            "changeTime": 3373865674955,
+            "contentHash": "fe95029d9d0695d7ebbb9f1ee9a2a5448a6e8fbb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers-2x.png",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers-2x.png",
+            "isDirectory": false,
+            "size": 1259,
+            "modifiedTime": 1545202976000,
+            "changeTime": 3373865674955,
+            "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers.png",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers.png",
+            "isDirectory": false,
+            "size": 696,
+            "modifiedTime": 1545202976000,
+            "changeTime": 3373865674955,
+            "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x.png",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x.png",
+            "isDirectory": false,
+            "size": 2464,
+            "modifiedTime": 1545202976000,
+            "changeTime": 3373865674955,
+            "contentHash": "cf3a536596b1f58e0ac805404183c8e6d6bdacb5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon.png",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon.png",
+            "isDirectory": false,
+            "size": 1466,
+            "modifiedTime": 1545202976000,
+            "changeTime": 3373865674955,
+            "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-shadow.png",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-shadow.png",
+            "isDirectory": false,
+            "size": 618,
+            "modifiedTime": 1545202976000,
+            "changeTime": 3373865674955,
+            "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js",
+            "isDirectory": false,
+            "size": 398589,
+            "modifiedTime": 1545202976000,
+            "changeTime": 3373865674955,
+            "contentHash": "ca67d5d8c1790d2dfb84a2dca04a8e07a1f7a256",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js.map",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js.map",
+            "isDirectory": false,
+            "size": 759894,
+            "modifiedTime": 1545202976000,
+            "changeTime": 3373865674955,
+            "contentHash": "3f658c11a3777fec7d47791891cef7c658c9de5b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js",
+            "isDirectory": false,
+            "size": 400314,
+            "modifiedTime": 1545202976000,
+            "changeTime": 3373865674955,
+            "contentHash": "6dc6a7d35f9833647c5b4978331ab6421b38f47f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js.map",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js.map",
+            "isDirectory": false,
+            "size": 759986,
+            "modifiedTime": 1545202976000,
+            "changeTime": 3373865674955,
+            "contentHash": "6fc0eb51f39c20d20284c1ee42e5a3b0ec516380",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.css",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.css",
+            "isDirectory": false,
+            "size": 14106,
+            "modifiedTime": 1545202976000,
+            "changeTime": 3373865674955,
+            "contentHash": "047c2b6bab441e6fe6d3ea804fdb82524b312829",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js",
+            "isDirectory": false,
+            "size": 140540,
+            "modifiedTime": 1545202976000,
+            "changeTime": 3373865674955,
+            "contentHash": "869977e7c60b77f9cce8a4d75530a992429d6864",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js.map",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js.map",
+            "isDirectory": false,
+            "size": 191113,
+            "modifiedTime": 1545202976000,
+            "changeTime": 3373865674955,
+            "contentHash": "07d76b212e8e2a85af20ad9120bd45c7c1913c17",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\staticresources",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\staticresources",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545202973880,
+            "changeTime": 3373865674955,
+            "contentHash": "08cd66aadcab5dfa471ea4ff92c064593c3522d5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545202974210,
+            "changeTime": 3373865674955,
+            "contentHash": "504aa9d4037501ec4d0edf632f7af41532b43659",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\staticresources\\leaflet",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\staticresources\\leaflet",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545202974080,
+            "changeTime": 3373865674955,
+            "contentHash": "a4bdb0bbac118a8412f497c2e41a08d3b9edb86a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545202983420,
+            "changeTime": 3373865674955,
+            "contentHash": "b7a598894b040506543e6d25c20b8ee1c1e33ace",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
+        {
+            "state": "u",
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 330,
+            "modifiedTime": 1545203264000,
+            "changeTime": 3373865674955,
+            "contentHash": "9fadcb465f3944d604168423683b8f72045a9b9a"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 242,
+            "modifiedTime": 1545202984000,
+            "changeTime": 3373865674955,
+            "contentHash": "c36ecc6bbe85bd9081a8c38d8427f7e8bbabeec9",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
+        {
+            "state": "u",
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 830,
+            "modifiedTime": 1545203274000,
+            "changeTime": 3373865674955,
+            "contentHash": "22f2320dc148f0e43c67b8f5d2dc75933cb07c22"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1545202984000,
+            "changeTime": 3373865674955,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1545203016000,
+            "changeTime": 3373865674955,
+            "contentHash": "1b7513aa1fdc650ee47e8f91d28905bea72411d1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1545202984000,
+            "changeTime": 3373865674955,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.svg",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1545202984000,
+            "changeTime": 3373865674955,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.auradoc",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1545202984000,
+            "changeTime": 3373865674955,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.design",
+        {
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1545202984000,
+            "changeTime": 3373865674955,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
+        {
+            "state": "u",
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545203114770,
+            "changeTime": 3373865674955,
+            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
+        {
+            "state": "u",
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 100,
+            "modifiedTime": 1545203132000,
+            "changeTime": 3373865674955,
+            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4"
+        }
+    ],
+    [
+        "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "F:\\KANTOR\\Project\\SCRATCH ORG\\curious-bear\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1545203116000,
+            "changeTime": 3373865674955,
+            "contentHash": "4b19d3ff07a5d4014613c9c30fffb326546e8c50"
         }
     ]
 ]
